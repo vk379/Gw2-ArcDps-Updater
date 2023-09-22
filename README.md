@@ -2,6 +2,7 @@
 A Tool to Update ArcDps after every patch!
 
 **Installation**
+
 Simply run the ArcDps Updater.exe file and follow the instructions on screen.
 Any issues, please feel free to contact me on GitHub or In-Game at vishnuk.5082.
 
